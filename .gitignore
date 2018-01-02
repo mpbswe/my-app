@@ -1,0 +1,10 @@
+*.tar
+.gz
+*#
+*~
+target/
+*.pyc
+.classpath
+.settings
+.project
+*.bak
